@@ -1,4 +1,5 @@
 ### Hi there 👋
+AbdurRahman Ibn Ghufran is a behavioural trainer and public speaker, however, he is famous for his public speaking.
 
 <!--
 **abdurrahmanibnghufran/abdurrahmanibnghufran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
